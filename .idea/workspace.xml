@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7849b351-943b-4c4d-a86d-4554b6c502c5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7849b351-943b-4c4d-a86d-4554b6c502c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
   </component>
   <component name="RunManager" selected="Python.algorithm5">
     <configuration name="algorithm5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -231,6 +228,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/training_tasks" />
+    </ignored-roots>
     <MESSAGE value="test pc" />
     <MESSAGE value="test pc1" />
     <option name="LAST_COMMIT_MESSAGE" value="test pc1" />
@@ -276,10 +276,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582702680238" />
-    <state x="463" y="166" key="SettingsEditor" timestamp="1582704347268">
+    <state x="463" y="166" key="SettingsEditor" timestamp="1582801658783">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="166" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1582704347268" />
+    <state x="463" y="166" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582801658783" />
     <state x="661" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1582702793059">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
