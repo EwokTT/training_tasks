@@ -30,12 +30,13 @@ import turtle
 #     turtle.speed('fastest')
 #
 # draw(400, 4)
-
+a=0.8
 def coh_line(l,n):
+
     if n==0:
         turtle.left(180)
         return
-    for i in range (n):
+    else:
         turtle.forward(l/3)
         turtle.left(60)
         turtle.forward(l/3)
@@ -43,13 +44,17 @@ def coh_line(l,n):
         turtle.forward(l/3)
         turtle.left(60)
         turtle.forward(l / 3)
-        turtle.left(180/n)
-        coh_line(l,n-i)
+        turtle.left(60)
+        coh_line(l * a, n - 1)
 
 
 
-coh_line(100,12)
 
+
+
+
+coh_line(100,25)
+window.getMouse()
 
 
 
